@@ -1,0 +1,6 @@
+d:\data\booknew\chapters\code\Chapter 35 Data Parallelism\bin\Release\Chapter 35 Data Parallelism.exe.config
+d:\data\booknew\chapters\code\Chapter 35 Data Parallelism\bin\Release\Chapter 35 Data Parallelism.exe
+d:\data\booknew\chapters\code\Chapter 35 Data Parallelism\bin\Release\Chapter 35 Data Parallelism.pdb
+d:\data\booknew\chapters\code\Chapter 35 Data Parallelism\obj\Release\Chapter 35 Data Parallelism.exe
+d:\data\booknew\chapters\code\Chapter 35 Data Parallelism\obj\Release\Chapter 35 Data Parallelism.pdb
+d:\data\booknew\chapters\code\Chapter 35 Data Parallelism\obj\Release\Chapter 35 Data Parallelism.csprojResolveAssemblyReference.cache

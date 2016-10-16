@@ -1,0 +1,6 @@
+d:\data\booknew\chapters\code\Chapter 39 unsafe\bin\Release\Chapter 39 unsafe.exe.config
+d:\data\booknew\chapters\code\Chapter 39 unsafe\bin\Release\Chapter 39 unsafe.exe
+d:\data\booknew\chapters\code\Chapter 39 unsafe\bin\Release\Chapter 39 unsafe.pdb
+d:\data\booknew\chapters\code\Chapter 39 unsafe\obj\Release\Chapter 39 unsafe.exe
+d:\data\booknew\chapters\code\Chapter 39 unsafe\obj\Release\Chapter 39 unsafe.pdb
+D:\data\booknew\Chapters\code\Chapter 39 unsafe\obj\Release\Chapter 39 unsafe.csprojResolveAssemblyReference.cache

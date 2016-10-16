@@ -1,0 +1,7 @@
+d:\data\booknew\chapters\code\Chapter 36 Run time generation\Polynomial\bin\Release\Polynomial.exe
+d:\data\booknew\chapters\code\Chapter 36 Run time generation\Polynomial\bin\Release\Polynomial.pdb
+d:\data\booknew\chapters\code\Chapter 36 Run time generation\Polynomial\bin\Release\PolynomialBase.dll
+d:\data\booknew\chapters\code\Chapter 36 Run time generation\Polynomial\bin\Release\PolynomialBase.pdb
+d:\data\booknew\chapters\code\Chapter 36 Run time generation\Polynomial\obj\Release\PolynomialImplementation.csprojResolveAssemblyReference.cache
+d:\data\booknew\chapters\code\Chapter 36 Run time generation\Polynomial\obj\Release\Polynomial.exe
+d:\data\booknew\chapters\code\Chapter 36 Run time generation\Polynomial\obj\Release\Polynomial.pdb

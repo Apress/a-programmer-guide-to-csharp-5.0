@@ -1,0 +1,6 @@
+d:\data\booknew\chapters\code\Chapter 8 - Structs\bin\Debug\Chapter 8 - Structs.exe.config
+d:\data\booknew\chapters\code\Chapter 8 - Structs\obj\Debug\Chapter 8 - Structs.csprojResolveAssemblyReference.cache
+d:\data\booknew\chapters\code\Chapter 8 - Structs\bin\Debug\Chapter 8 - Structs.exe
+d:\data\booknew\chapters\code\Chapter 8 - Structs\bin\Debug\Chapter 8 - Structs.pdb
+d:\data\booknew\chapters\code\Chapter 8 - Structs\obj\Debug\Chapter 8 - Structs.exe
+d:\data\booknew\chapters\code\Chapter 8 - Structs\obj\Debug\Chapter 8 - Structs.pdb

@@ -1,0 +1,7 @@
+d:\data\booknew\chapters\code\Code Generation\LogAddInToFile\bin\Debug\LogAddInToFile.dll
+d:\data\booknew\chapters\code\Code Generation\LogAddInToFile\bin\Debug\LogAddInToFile.pdb
+d:\data\booknew\chapters\code\Code Generation\LogAddInToFile\bin\Debug\Log Driver.dll
+d:\data\booknew\chapters\code\Code Generation\LogAddInToFile\bin\Debug\Log Driver.pdb
+d:\data\booknew\chapters\code\Code Generation\LogAddInToFile\obj\Debug\LogAddInToFile.csprojResolveAssemblyReference.cache
+d:\data\booknew\chapters\code\Code Generation\LogAddInToFile\obj\Debug\LogAddInToFile.dll
+d:\data\booknew\chapters\code\Code Generation\LogAddInToFile\obj\Debug\LogAddInToFile.pdb

@@ -1,0 +1,5 @@
+<?xml version="1.0"?>
+<Employee2005 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Salary="15123">
+  <FullName>Peter</FullName>
+  <DateOfBirth>1994-12-31T00:00:00</DateOfBirth>
+</Employee2005>

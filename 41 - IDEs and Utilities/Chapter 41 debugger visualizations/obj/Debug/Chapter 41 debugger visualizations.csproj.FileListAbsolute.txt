@@ -1,0 +1,5 @@
+d:\data\booknew\chapters\code\Chapter 41 debugger visualizations\bin\Debug\Chapter 41 debugger visualizations.exe.config
+d:\data\booknew\chapters\code\Chapter 41 debugger visualizations\bin\Debug\Chapter 41 debugger visualizations.exe
+d:\data\booknew\chapters\code\Chapter 41 debugger visualizations\bin\Debug\Chapter 41 debugger visualizations.pdb
+d:\data\booknew\chapters\code\Chapter 41 debugger visualizations\obj\Debug\Chapter 41 debugger visualizations.exe
+d:\data\booknew\chapters\code\Chapter 41 debugger visualizations\obj\Debug\Chapter 41 debugger visualizations.pdb

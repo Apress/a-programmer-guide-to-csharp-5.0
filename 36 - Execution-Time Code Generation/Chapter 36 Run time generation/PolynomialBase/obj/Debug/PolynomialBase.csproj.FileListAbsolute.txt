@@ -1,0 +1,5 @@
+d:\data\booknew\chapters\code\Chapter 36 Run time generation\PolynomialBase\bin\Debug\PolynomialBase.dll
+d:\data\booknew\chapters\code\Chapter 36 Run time generation\PolynomialBase\bin\Debug\PolynomialBase.pdb
+d:\data\booknew\chapters\code\Chapter 36 Run time generation\PolynomialBase\obj\Debug\PolynomialBase.csprojResolveAssemblyReference.cache
+d:\data\booknew\chapters\code\Chapter 36 Run time generation\PolynomialBase\obj\Debug\PolynomialBase.dll
+d:\data\booknew\chapters\code\Chapter 36 Run time generation\PolynomialBase\obj\Debug\PolynomialBase.pdb

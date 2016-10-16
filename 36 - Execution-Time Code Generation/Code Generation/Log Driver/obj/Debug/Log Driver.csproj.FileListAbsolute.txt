@@ -1,0 +1,5 @@
+d:\data\booknew\chapters\code\Code Generation\Log Driver\bin\Debug\Log Driver.dll
+d:\data\booknew\chapters\code\Code Generation\Log Driver\bin\Debug\Log Driver.pdb
+d:\data\booknew\chapters\code\Code Generation\Log Driver\obj\Debug\Log Driver.csprojResolveAssemblyReference.cache
+d:\data\booknew\chapters\code\Code Generation\Log Driver\obj\Debug\Log Driver.dll
+d:\data\booknew\chapters\code\Code Generation\Log Driver\obj\Debug\Log Driver.pdb

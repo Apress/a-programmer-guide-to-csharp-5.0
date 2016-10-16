@@ -1,0 +1,6 @@
+d:\data\booknew\chapters\code\Chapter 35 Slow Operations\bin\Debug\Chapter 35 Slow Operations.exe.config
+d:\data\booknew\chapters\code\Chapter 35 Slow Operations\bin\Debug\Chapter 35 Slow Operations.exe
+d:\data\booknew\chapters\code\Chapter 35 Slow Operations\bin\Debug\Chapter 35 Slow Operations.pdb
+d:\data\booknew\chapters\code\Chapter 35 Slow Operations\obj\Debug\Chapter 35 Slow Operations.exe
+d:\data\booknew\chapters\code\Chapter 35 Slow Operations\obj\Debug\Chapter 35 Slow Operations.pdb
+d:\data\booknew\chapters\code\Chapter 35 Slow Operations\obj\Debug\Chapter 35 Slow Operations.csprojResolveAssemblyReference.cache

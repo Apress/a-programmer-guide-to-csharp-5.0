@@ -1,0 +1,5 @@
+d:\data\booknew\chapters\code\Chapter 38 Framework\obj\Debug\Chapter 38 Framework.csprojResolveAssemblyReference.cache
+d:\data\booknew\chapters\code\Chapter 38 Framework\bin\Debug\Chapter 38 Framework.exe
+d:\data\booknew\chapters\code\Chapter 38 Framework\bin\Debug\Chapter 38 Framework.pdb
+d:\data\booknew\chapters\code\Chapter 38 Framework\obj\Debug\Chapter 38 Framework.exe
+d:\data\booknew\chapters\code\Chapter 38 Framework\obj\Debug\Chapter 38 Framework.pdb

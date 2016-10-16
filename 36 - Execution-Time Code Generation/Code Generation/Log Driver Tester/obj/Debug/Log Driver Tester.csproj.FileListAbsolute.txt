@@ -1,0 +1,10 @@
+d:\data\booknew\chapters\code\Code Generation\Log Driver Tester\bin\Debug\Log Driver Tester.exe.config
+d:\data\booknew\chapters\code\Code Generation\Log Driver Tester\obj\Debug\Log Driver Tester.csprojResolveAssemblyReference.cache
+d:\data\booknew\chapters\code\Code Generation\Log Driver Tester\bin\Debug\Log Driver Tester.exe
+d:\data\booknew\chapters\code\Code Generation\Log Driver Tester\bin\Debug\Log Driver Tester.pdb
+d:\data\booknew\chapters\code\Code Generation\Log Driver Tester\bin\Debug\Log Driver.dll
+d:\data\booknew\chapters\code\Code Generation\Log Driver Tester\bin\Debug\Log Driver.pdb
+d:\data\booknew\chapters\code\Code Generation\Log Driver Tester\obj\Debug\Log Driver Tester.exe
+d:\data\booknew\chapters\code\Code Generation\Log Driver Tester\obj\Debug\Log Driver Tester.pdb
+d:\data\booknew\chapters\code\Code Generation\Log Driver Tester\bin\Debug\LogAddInToFile.dll
+d:\data\booknew\chapters\code\Code Generation\Log Driver Tester\bin\Debug\LogAddInToFile.pdb

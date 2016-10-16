@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C# Express 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chapter 6 - Member accessibility and overloading", "Chapter 6 - Member accessibility and overloading.csproj", "{340F5EA6-8275-4FF6-936B-7C6AB61E7DA6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{340F5EA6-8275-4FF6-936B-7C6AB61E7DA6}.Debug|x86.ActiveCfg = Debug|x86
+		{340F5EA6-8275-4FF6-936B-7C6AB61E7DA6}.Debug|x86.Build.0 = Debug|x86
+		{340F5EA6-8275-4FF6-936B-7C6AB61E7DA6}.Release|x86.ActiveCfg = Release|x86
+		{340F5EA6-8275-4FF6-936B-7C6AB61E7DA6}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,4 @@
+D:\data\booknew\Chapters\code\Chapter 34 Threading\bin\Release\Chapter 34 Threading.exe
+D:\data\booknew\Chapters\code\Chapter 34 Threading\bin\Release\Chapter 34 Threading.pdb
+D:\data\booknew\Chapters\code\Chapter 34 Threading\obj\Release\Chapter 34 Threading.exe
+D:\data\booknew\Chapters\code\Chapter 34 Threading\obj\Release\Chapter 34 Threading.pdb

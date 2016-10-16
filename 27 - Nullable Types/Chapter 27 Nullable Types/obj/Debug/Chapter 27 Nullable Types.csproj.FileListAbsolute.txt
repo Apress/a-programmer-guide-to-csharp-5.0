@@ -1,0 +1,6 @@
+d:\data\booknew\chapters\code\Chapter 27 Nullable Types\bin\Debug\Chapter 27 Nullable Types.exe.config
+d:\data\booknew\chapters\code\Chapter 27 Nullable Types\bin\Debug\Chapter 27 Nullable Types.exe
+d:\data\booknew\chapters\code\Chapter 27 Nullable Types\bin\Debug\Chapter 27 Nullable Types.pdb
+d:\data\booknew\chapters\code\Chapter 27 Nullable Types\obj\Debug\Chapter 27 Nullable Types.csprojResolveAssemblyReference.cache
+d:\data\booknew\chapters\code\Chapter 27 Nullable Types\obj\Debug\Chapter 27 Nullable Types.exe
+d:\data\booknew\chapters\code\Chapter 27 Nullable Types\obj\Debug\Chapter 27 Nullable Types.pdb

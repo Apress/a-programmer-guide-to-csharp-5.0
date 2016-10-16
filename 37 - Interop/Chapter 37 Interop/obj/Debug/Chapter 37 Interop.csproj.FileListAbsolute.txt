@@ -1,0 +1,5 @@
+d:\data\booknew\chapters\code\Chapter 37 Interop\obj\Debug\Chapter 37 Interop.csprojResolveAssemblyReference.cache
+d:\data\booknew\chapters\code\Chapter 37 Interop\bin\Debug\Chapter 37 Interop.exe
+d:\data\booknew\chapters\code\Chapter 37 Interop\bin\Debug\Chapter 37 Interop.pdb
+d:\data\booknew\chapters\code\Chapter 37 Interop\obj\Debug\Chapter 37 Interop.exe
+d:\data\booknew\chapters\code\Chapter 37 Interop\obj\Debug\Chapter 37 Interop.pdb

@@ -1,0 +1,5 @@
+D:\data\booknew\Chapters\code\Chapter 22 - Delegates\bin\Debug\Chapter 22 - Delegates.exe
+D:\data\booknew\Chapters\code\Chapter 22 - Delegates\bin\Debug\Chapter 22 - Delegates.pdb
+D:\data\booknew\Chapters\code\Chapter 22 - Delegates\obj\x86\Debug\Chapter 22 - Delegates.csprojResolveAssemblyReference.cache
+D:\data\booknew\Chapters\code\Chapter 22 - Delegates\obj\x86\Debug\Chapter 22 - Delegates.exe
+D:\data\booknew\Chapters\code\Chapter 22 - Delegates\obj\x86\Debug\Chapter 22 - Delegates.pdb

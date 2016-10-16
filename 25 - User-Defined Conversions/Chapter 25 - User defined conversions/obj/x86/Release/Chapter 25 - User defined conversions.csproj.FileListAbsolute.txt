@@ -1,0 +1,9 @@
+C:\Users\Eric Gunnerson\AppData\Local\Temporary Projects\Chapter 25 - User defined conversions\bin\Release\Chapter 25 - User defined conversions.exe
+C:\Users\Eric Gunnerson\AppData\Local\Temporary Projects\Chapter 25 - User defined conversions\bin\Release\Chapter 25 - User defined conversions.pdb
+C:\Users\Eric Gunnerson\AppData\Local\Temporary Projects\Chapter 25 - User defined conversions\obj\x86\Release\Chapter 25 - User defined conversions.exe
+C:\Users\Eric Gunnerson\AppData\Local\Temporary Projects\Chapter 25 - User defined conversions\obj\x86\Release\Chapter 25 - User defined conversions.pdb
+D:\data\booknew\Chapters\code\Chapter 25 - User defined conversions\obj\x86\Release\Chapter 25 - User defined conversions.exe
+D:\data\booknew\Chapters\code\Chapter 25 - User defined conversions\obj\x86\Release\Chapter 25 - User defined conversions.pdb
+D:\data\booknew\Chapters\code\Chapter 25 - User defined conversions\bin\Release\Chapter 25 - User defined conversions.exe
+D:\data\booknew\Chapters\code\Chapter 25 - User defined conversions\bin\Release\Chapter 25 - User defined conversions.pdb
+D:\data\booknew\Chapters\code\Chapter 25 - User defined conversions\obj\x86\Release\Chapter 25 - User defined conversions.csprojResolveAssemblyReference.cache

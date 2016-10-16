@@ -1,0 +1,6 @@
+d:\data\booknew\chapters\code\Chapter 31 Other Language Details\bin\Debug\Chapter 31 Other Language Details.exe.config
+d:\data\booknew\chapters\code\Chapter 31 Other Language Details\bin\Debug\Chapter 31 Other Language Details.exe
+d:\data\booknew\chapters\code\Chapter 31 Other Language Details\bin\Debug\Chapter 31 Other Language Details.pdb
+d:\data\booknew\chapters\code\Chapter 31 Other Language Details\obj\Debug\Chapter 31 Other Language Details.csprojResolveAssemblyReference.cache
+d:\data\booknew\chapters\code\Chapter 31 Other Language Details\obj\Debug\Chapter 31 Other Language Details.exe
+d:\data\booknew\chapters\code\Chapter 31 Other Language Details\obj\Debug\Chapter 31 Other Language Details.pdb

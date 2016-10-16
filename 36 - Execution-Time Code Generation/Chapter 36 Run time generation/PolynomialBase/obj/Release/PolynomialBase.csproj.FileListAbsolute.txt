@@ -1,0 +1,4 @@
+d:\data\booknew\chapters\code\Chapter 36 Run time generation\PolynomialBase\bin\Release\PolynomialBase.dll
+d:\data\booknew\chapters\code\Chapter 36 Run time generation\PolynomialBase\bin\Release\PolynomialBase.pdb
+d:\data\booknew\chapters\code\Chapter 36 Run time generation\PolynomialBase\obj\Release\PolynomialBase.dll
+d:\data\booknew\chapters\code\Chapter 36 Run time generation\PolynomialBase\obj\Release\PolynomialBase.pdb

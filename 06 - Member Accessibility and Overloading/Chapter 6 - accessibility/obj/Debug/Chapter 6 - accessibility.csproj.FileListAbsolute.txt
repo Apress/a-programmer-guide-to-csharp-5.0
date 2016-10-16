@@ -1,0 +1,6 @@
+d:\data\booknew\chapters\code\Chapter 6 - accessibility\bin\Debug\Chapter 6 - accessibility.exe.config
+d:\data\booknew\chapters\code\Chapter 6 - accessibility\bin\Debug\Chapter 6 - accessibility.exe
+d:\data\booknew\chapters\code\Chapter 6 - accessibility\bin\Debug\Chapter 6 - accessibility.pdb
+d:\data\booknew\chapters\code\Chapter 6 - accessibility\obj\Debug\Chapter 6 - accessibility.csprojResolveAssemblyReference.cache
+d:\data\booknew\chapters\code\Chapter 6 - accessibility\obj\Debug\Chapter 6 - accessibility.exe
+d:\data\booknew\chapters\code\Chapter 6 - accessibility\obj\Debug\Chapter 6 - accessibility.pdb

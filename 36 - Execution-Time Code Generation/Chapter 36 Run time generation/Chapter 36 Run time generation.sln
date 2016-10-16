@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PolynomialImplementation", "Polynomial\PolynomialImplementation.csproj", "{745F88D9-E3D6-4840-9F58-EF431961D29B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PolynomialBase", "PolynomialBase\PolynomialBase.csproj", "{E1393EC9-C255-4A50-B725-A406E3634423}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RoslynTest", "RoslynTest\RoslynTest.csproj", "{4C5F10AA-0107-47E6-8B94-824B6BE3026B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4C5F10AA-0107-47E6-8B94-824B6BE3026B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C5F10AA-0107-47E6-8B94-824B6BE3026B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C5F10AA-0107-47E6-8B94-824B6BE3026B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C5F10AA-0107-47E6-8B94-824B6BE3026B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{745F88D9-E3D6-4840-9F58-EF431961D29B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{745F88D9-E3D6-4840-9F58-EF431961D29B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{745F88D9-E3D6-4840-9F58-EF431961D29B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{745F88D9-E3D6-4840-9F58-EF431961D29B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E1393EC9-C255-4A50-B725-A406E3634423}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1393EC9-C255-4A50-B725-A406E3634423}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E1393EC9-C255-4A50-B725-A406E3634423}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E1393EC9-C255-4A50-B725-A406E3634423}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

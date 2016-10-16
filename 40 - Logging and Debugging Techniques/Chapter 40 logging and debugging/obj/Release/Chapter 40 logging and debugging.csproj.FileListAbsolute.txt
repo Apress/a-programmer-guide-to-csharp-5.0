@@ -1,0 +1,6 @@
+d:\data\booknew\chapters\code\Chapter 40 logging and debugging\bin\Release\Chapter 40 logging and debugging.exe.config
+d:\data\booknew\chapters\code\Chapter 40 logging and debugging\bin\Release\Chapter 40 logging and debugging.exe
+d:\data\booknew\chapters\code\Chapter 40 logging and debugging\bin\Release\Chapter 40 logging and debugging.pdb
+d:\data\booknew\chapters\code\Chapter 40 logging and debugging\obj\Release\Chapter 40 logging and debugging.exe
+d:\data\booknew\chapters\code\Chapter 40 logging and debugging\obj\Release\Chapter 40 logging and debugging.pdb
+d:\data\booknew\chapters\code\Chapter 40 logging and debugging\obj\Release\Chapter 40 logging and debugging.csprojResolveAssemblyReference.cache

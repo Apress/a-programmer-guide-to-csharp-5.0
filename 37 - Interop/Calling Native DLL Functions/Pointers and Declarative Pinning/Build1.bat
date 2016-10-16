@@ -1,0 +1,1 @@
+csc /unsafe ReadFileUnsafe.cs

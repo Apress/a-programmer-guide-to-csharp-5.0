@@ -1,0 +1,6 @@
+d:\data\booknew\chapters\code\Chapter 32 Making friends\bin\Debug\Chapter 32 Making friends.exe.config
+d:\data\booknew\chapters\code\Chapter 32 Making friends\obj\Debug\Chapter 32 Making friends.csprojResolveAssemblyReference.cache
+d:\data\booknew\chapters\code\Chapter 32 Making friends\bin\Debug\Chapter 32 Making friends.exe
+d:\data\booknew\chapters\code\Chapter 32 Making friends\bin\Debug\Chapter 32 Making friends.pdb
+d:\data\booknew\chapters\code\Chapter 32 Making friends\obj\Debug\Chapter 32 Making friends.exe
+d:\data\booknew\chapters\code\Chapter 32 Making friends\obj\Debug\Chapter 32 Making friends.pdb

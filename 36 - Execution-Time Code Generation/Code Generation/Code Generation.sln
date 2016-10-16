@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Log Driver", "Log Driver\Log Driver.csproj", "{AF01781E-4CED-414E-B909-950EB60EB2CF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Log Driver Tester", "Log Driver Tester\Log Driver Tester.csproj", "{C19E1002-ACE1-4878-8DBF-59359D3F472C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LogAddInToFile", "LogAddInToFile\LogAddInToFile.csproj", "{66273BA6-AD7E-41E0-B6AC-C29EF90AB9F8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{66273BA6-AD7E-41E0-B6AC-C29EF90AB9F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66273BA6-AD7E-41E0-B6AC-C29EF90AB9F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66273BA6-AD7E-41E0-B6AC-C29EF90AB9F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66273BA6-AD7E-41E0-B6AC-C29EF90AB9F8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AF01781E-4CED-414E-B909-950EB60EB2CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF01781E-4CED-414E-B909-950EB60EB2CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF01781E-4CED-414E-B909-950EB60EB2CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF01781E-4CED-414E-B909-950EB60EB2CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C19E1002-ACE1-4878-8DBF-59359D3F472C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C19E1002-ACE1-4878-8DBF-59359D3F472C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C19E1002-ACE1-4878-8DBF-59359D3F472C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C19E1002-ACE1-4878-8DBF-59359D3F472C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

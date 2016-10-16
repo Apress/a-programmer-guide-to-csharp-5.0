@@ -1,0 +1,6 @@
+d:\data\booknew\chapters\code\Chapter 12 - Variable Scoping and Definite Assignment\bin\Debug\Chapter 12 - Variable Scoping and Definite Assignment.exe.config
+d:\data\booknew\chapters\code\Chapter 12 - Variable Scoping and Definite Assignment\obj\Debug\Chapter 12 - Variable Scoping and Definite Assignment.csprojResolveAssemblyReference.cache
+d:\data\booknew\chapters\code\Chapter 12 - Variable Scoping and Definite Assignment\bin\Debug\Chapter 12 - Variable Scoping and Definite Assignment.exe
+d:\data\booknew\chapters\code\Chapter 12 - Variable Scoping and Definite Assignment\bin\Debug\Chapter 12 - Variable Scoping and Definite Assignment.pdb
+d:\data\booknew\chapters\code\Chapter 12 - Variable Scoping and Definite Assignment\obj\Debug\Chapter 12 - Variable Scoping and Definite Assignment.exe
+d:\data\booknew\chapters\code\Chapter 12 - Variable Scoping and Definite Assignment\obj\Debug\Chapter 12 - Variable Scoping and Definite Assignment.pdb

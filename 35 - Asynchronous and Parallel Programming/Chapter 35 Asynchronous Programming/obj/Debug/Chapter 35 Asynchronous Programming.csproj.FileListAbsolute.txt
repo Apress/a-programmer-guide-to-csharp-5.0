@@ -1,0 +1,5 @@
+d:\data\booknew\chapters\code\Chapter 35 Asynchronous Programming\bin\Debug\Chapter 35 Asynchronous Programming.pdb
+d:\data\booknew\chapters\code\Chapter 35 Asynchronous Programming\obj\Debug\Chapter 35 Asynchronous Programming.csprojResolveAssemblyReference.cache
+d:\data\booknew\chapters\code\Chapter 35 Asynchronous Programming\obj\Debug\Chapter 35 Asynchronous Programming.pdb
+d:\data\booknew\chapters\code\Chapter 35 Asynchronous Programming\bin\Debug\Chapter 35 Asynchronous Programming.exe
+d:\data\booknew\chapters\code\Chapter 35 Asynchronous Programming\obj\Debug\Chapter 35 Asynchronous Programming.exe

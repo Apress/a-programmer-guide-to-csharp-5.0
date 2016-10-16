@@ -1,0 +1,6 @@
+d:\data\booknew\chapters\code\Chapter 33 - arrays\bin\Debug\Chapter 33 - arrays.exe.config
+d:\data\booknew\chapters\code\Chapter 33 - arrays\obj\Debug\Chapter 33 - arrays.csprojResolveAssemblyReference.cache
+d:\data\booknew\chapters\code\Chapter 33 - arrays\bin\Debug\Chapter 33 - arrays.exe
+d:\data\booknew\chapters\code\Chapter 33 - arrays\bin\Debug\Chapter 33 - arrays.pdb
+d:\data\booknew\chapters\code\Chapter 33 - arrays\obj\Debug\Chapter 33 - arrays.exe
+d:\data\booknew\chapters\code\Chapter 33 - arrays\obj\Debug\Chapter 33 - arrays.pdb

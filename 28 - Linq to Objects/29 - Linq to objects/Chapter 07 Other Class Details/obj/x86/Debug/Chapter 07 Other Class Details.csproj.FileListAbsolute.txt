@@ -1,0 +1,5 @@
+D:\data\booknew\Chapters\code\29 - Linq to objects\Chapter 07 Other Class Details\bin\Debug\Chapter 07 Other Class Details.exe
+D:\data\booknew\Chapters\code\29 - Linq to objects\Chapter 07 Other Class Details\bin\Debug\Chapter 07 Other Class Details.pdb
+D:\data\booknew\Chapters\code\29 - Linq to objects\Chapter 07 Other Class Details\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\data\booknew\Chapters\code\29 - Linq to objects\Chapter 07 Other Class Details\obj\x86\Debug\Chapter 07 Other Class Details.exe
+D:\data\booknew\Chapters\code\29 - Linq to objects\Chapter 07 Other Class Details\obj\x86\Debug\Chapter 07 Other Class Details.pdb

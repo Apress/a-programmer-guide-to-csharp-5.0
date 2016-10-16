@@ -1,0 +1,5 @@
+d:\data\booknew\chapters\code\Chapter 34 Threading\obj\Debug\Chapter 34 Threading.csprojResolveAssemblyReference.cache
+d:\data\booknew\chapters\code\Chapter 34 Threading\bin\Debug\Chapter 34 Threading.exe
+d:\data\booknew\chapters\code\Chapter 34 Threading\bin\Debug\Chapter 34 Threading.pdb
+d:\data\booknew\chapters\code\Chapter 34 Threading\obj\Debug\Chapter 34 Threading.exe
+d:\data\booknew\chapters\code\Chapter 34 Threading\obj\Debug\Chapter 34 Threading.pdb

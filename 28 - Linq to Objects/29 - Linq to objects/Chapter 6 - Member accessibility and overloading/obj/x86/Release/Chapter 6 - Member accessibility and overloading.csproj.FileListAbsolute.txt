@@ -1,0 +1,5 @@
+D:\data\booknew\Chapters\code\29 - Linq to objects\Chapter 6 - Member accessibility and overloading\bin\Release\Chapter 6 - Member accessibility and overloading.exe
+D:\data\booknew\Chapters\code\29 - Linq to objects\Chapter 6 - Member accessibility and overloading\bin\Release\Chapter 6 - Member accessibility and overloading.pdb
+D:\data\booknew\Chapters\code\29 - Linq to objects\Chapter 6 - Member accessibility and overloading\obj\x86\Release\ResolveAssemblyReference.cache
+D:\data\booknew\Chapters\code\29 - Linq to objects\Chapter 6 - Member accessibility and overloading\obj\x86\Release\Chapter 6 - Member accessibility and overloading.exe
+D:\data\booknew\Chapters\code\29 - Linq to objects\Chapter 6 - Member accessibility and overloading\obj\x86\Release\Chapter 6 - Member accessibility and overloading.pdb

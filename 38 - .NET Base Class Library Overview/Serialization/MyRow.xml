@@ -1,0 +1,22 @@
+<SOAP-ENV:Envelope xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:SOAP-ENC="http://schemas.xmlsoap.org/soap/encoding/" xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/" SOAP-ENV:encodingStyle="http://schemas.xmlsoap.org/soap/encoding/" xmlns:a2="http://schemas.microsoft.com/clr/ns/System.Collections" xmlns:a1="http://schemas.microsoft.com/clr/assem/serial">
+<SOAP-ENV:Body>
+<a1:MyRow id="ref-1">
+<row href="#ref-3"/>
+</a1:MyRow>
+<a2:ArrayList id="ref-3">
+<_items href="#ref-4"/>
+<_size>2</_size>
+<_version>2</_version>
+</a2:ArrayList>
+<SOAP-ENC:Array id="ref-4" SOAP-ENC:arrayType="xsd:ur-type[16]">
+<item href="#ref-5"/>
+<item href="#ref-6"/>
+</SOAP-ENC:Array>
+<a1:MyElement id="ref-5">
+<name id="ref-7">Gumby</name>
+</a1:MyElement>
+<a1:MyElement id="ref-6">
+<name id="ref-8">Pokey</name>
+</a1:MyElement>
+</SOAP-ENV:Body>
+</SOAP-ENV:Envelope>

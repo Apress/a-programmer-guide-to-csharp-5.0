@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="AdventureWorks">
+  <DataContextMoniker Name="/AdventureWorksDataContext" />
+  <nestedChildShapes>
+    <classShape Id="99951151-610a-4262-8b3e-7e4f83d55268" absoluteBounds="2.75, 0.5, 2, 3.3093082682291666">
+      <DataClassMoniker Name="/AdventureWorksDataContext/Person" />
+      <nestedChildShapes>
+        <elementListCompartment Id="94084e7e-f207-4d87-91ec-600ed2249215" absoluteBounds="2.765, 0.96, 1.9700000000000002, 2.7493082682291665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="01d6fbc5-f453-489b-8f92-2ee4460a56cb" absoluteBounds="3.625, 5, 2, 1.3862939453125">
+      <DataClassMoniker Name="/AdventureWorksDataContext/Currency" />
+      <nestedChildShapes>
+        <elementListCompartment Id="44e250a2-20ea-4f96-8d84-75c05173ada3" absoluteBounds="3.6399999999999997, 5.46, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="6afc55a0-75d2-44bb-97fe-760d47db9438" absoluteBounds="0.5, 0.75, 2, 2.5401025390625">
+      <DataClassMoniker Name="/AdventureWorksDataContext/SalesPerson" />
+      <nestedChildShapes>
+        <elementListCompartment Id="1e1cc0c6-04d2-40e1-b537-1a2cc473f637" absoluteBounds="0.515, 1.21, 1.9700000000000002, 1.9801025390625" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>

@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C# Express 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chapter 07 Other Class Details", "Chapter 07 Other Class Details.csproj", "{AB929249-57E3-4C05-B2C7-4B27A787B805}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AB929249-57E3-4C05-B2C7-4B27A787B805}.Debug|x86.ActiveCfg = Debug|x86
+		{AB929249-57E3-4C05-B2C7-4B27A787B805}.Debug|x86.Build.0 = Debug|x86
+		{AB929249-57E3-4C05-B2C7-4B27A787B805}.Release|x86.ActiveCfg = Release|x86
+		{AB929249-57E3-4C05-B2C7-4B27A787B805}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

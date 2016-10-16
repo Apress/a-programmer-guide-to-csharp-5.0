@@ -1,0 +1,5 @@
+C:\Users\Eric Gunnerson\AppData\Local\Temporary Projects\Chapter 18 indexers\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Eric Gunnerson\AppData\Local\Temporary Projects\Chapter 18 indexers\bin\Release\Chapter 18 indexers.exe
+C:\Users\Eric Gunnerson\AppData\Local\Temporary Projects\Chapter 18 indexers\bin\Release\Chapter 18 indexers.pdb
+C:\Users\Eric Gunnerson\AppData\Local\Temporary Projects\Chapter 18 indexers\obj\x86\Release\Chapter 18 indexers.exe
+C:\Users\Eric Gunnerson\AppData\Local\Temporary Projects\Chapter 18 indexers\obj\x86\Release\Chapter 18 indexers.pdb

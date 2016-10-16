@@ -1,0 +1,4 @@
+C:\Users\Eric Gunnerson\AppData\Local\Temporary Projects\Chapter 26 - operator overloading\bin\Release\Chapter 26 - operator overloading.exe
+C:\Users\Eric Gunnerson\AppData\Local\Temporary Projects\Chapter 26 - operator overloading\bin\Release\Chapter 26 - operator overloading.pdb
+C:\Users\Eric Gunnerson\AppData\Local\Temporary Projects\Chapter 26 - operator overloading\obj\x86\Release\Chapter 26 - operator overloading.exe
+C:\Users\Eric Gunnerson\AppData\Local\Temporary Projects\Chapter 26 - operator overloading\obj\x86\Release\Chapter 26 - operator overloading.pdb

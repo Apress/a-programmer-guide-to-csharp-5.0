@@ -1,0 +1,7 @@
+d:\data\booknew\chapters\code\Chapter 24 - Dynamic types\Chapter 24 - Dynamic types\bin\Release\Chapter 24 - Dynamic types.exe.config
+d:\data\booknew\chapters\code\Chapter 24 - Dynamic types\Chapter 24 - Dynamic types\obj\Release\Chapter 24 - Dynamic types.csproj.ResolveComReference.cache
+d:\data\booknew\chapters\code\Chapter 24 - Dynamic types\Chapter 24 - Dynamic types\bin\Release\Chapter 24 - Dynamic types.exe
+d:\data\booknew\chapters\code\Chapter 24 - Dynamic types\Chapter 24 - Dynamic types\bin\Release\Chapter 24 - Dynamic types.pdb
+d:\data\booknew\chapters\code\Chapter 24 - Dynamic types\Chapter 24 - Dynamic types\obj\Release\Chapter 24 - Dynamic types.exe
+d:\data\booknew\chapters\code\Chapter 24 - Dynamic types\Chapter 24 - Dynamic types\obj\Release\Chapter 24 - Dynamic types.pdb
+D:\data\booknew\Chapters\code\Chapter 24 - Dynamic types\Chapter 24 - Dynamic types\obj\Release\Chapter 24 - Dynamic types.csprojResolveAssemblyReference.cache

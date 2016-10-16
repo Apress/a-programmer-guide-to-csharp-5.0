@@ -1,0 +1,10 @@
+C:\Users\Eric Gunnerson\AppData\Local\Temporary Projects\LinqToXml\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Eric Gunnerson\AppData\Local\Temporary Projects\LinqToXml\bin\Release\LinqToXml.exe
+C:\Users\Eric Gunnerson\AppData\Local\Temporary Projects\LinqToXml\bin\Release\LinqToXml.pdb
+C:\Users\Eric Gunnerson\AppData\Local\Temporary Projects\LinqToXml\obj\x86\Release\LinqToXml.exe
+C:\Users\Eric Gunnerson\AppData\Local\Temporary Projects\LinqToXml\obj\x86\Release\LinqToXml.pdb
+D:\data\booknew\Chapters\code\LinqToXml\LinqToXml\obj\x86\Release\LinqToXml.exe
+D:\data\booknew\Chapters\code\LinqToXml\LinqToXml\obj\x86\Release\LinqToXml.pdb
+D:\data\booknew\Chapters\code\LinqToXml\LinqToXml\bin\Release\LinqToXml.exe
+D:\data\booknew\Chapters\code\LinqToXml\LinqToXml\bin\Release\LinqToXml.pdb
+D:\data\booknew\Chapters\code\LinqToXml\LinqToXml\obj\x86\Release\LinqToXml.csprojResolveAssemblyReference.cache

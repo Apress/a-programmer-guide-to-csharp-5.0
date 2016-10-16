@@ -1,0 +1,10 @@
+C:\Users\Eric Gunnerson\AppData\Local\Temporary Projects\Chapter 16 - Generic Types\bin\Release\Chapter 16 - Generic Types.exe
+C:\Users\Eric Gunnerson\AppData\Local\Temporary Projects\Chapter 16 - Generic Types\bin\Release\Chapter 16 - Generic Types.pdb
+C:\Users\Eric Gunnerson\AppData\Local\Temporary Projects\Chapter 16 - Generic Types\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Eric Gunnerson\AppData\Local\Temporary Projects\Chapter 16 - Generic Types\obj\x86\Release\Chapter 16 - Generic Types.exe
+C:\Users\Eric Gunnerson\AppData\Local\Temporary Projects\Chapter 16 - Generic Types\obj\x86\Release\Chapter 16 - Generic Types.pdb
+D:\data\booknew\Chapters\code\Chapter 16 - Generic Types\obj\x86\Release\Chapter 16 - Generic Types.exe
+D:\data\booknew\Chapters\code\Chapter 16 - Generic Types\obj\x86\Release\Chapter 16 - Generic Types.pdb
+D:\data\booknew\Chapters\code\Chapter 16 - Generic Types\bin\Release\Chapter 16 - Generic Types.exe
+D:\data\booknew\Chapters\code\Chapter 16 - Generic Types\bin\Release\Chapter 16 - Generic Types.pdb
+D:\data\booknew\Chapters\code\Chapter 16 - Generic Types\obj\x86\Release\ResolveAssemblyReference.cache

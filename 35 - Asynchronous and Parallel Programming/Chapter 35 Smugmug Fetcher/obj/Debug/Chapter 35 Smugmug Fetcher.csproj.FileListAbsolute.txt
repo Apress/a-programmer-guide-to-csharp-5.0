@@ -1,0 +1,13 @@
+d:\data\booknew\chapters\code\Chapter 35 Smugmug Fetcher\bin\Debug\Chapter 35 Smugmug Fetcher.exe.config
+d:\data\booknew\chapters\code\Chapter 35 Smugmug Fetcher\bin\Debug\Chapter 35 Smugmug Fetcher.exe
+d:\data\booknew\chapters\code\Chapter 35 Smugmug Fetcher\bin\Debug\Chapter 35 Smugmug Fetcher.pdb
+d:\data\booknew\chapters\code\Chapter 35 Smugmug Fetcher\obj\Debug\MainWindow.baml
+d:\data\booknew\chapters\code\Chapter 35 Smugmug Fetcher\obj\Debug\MainWindow.g.cs
+d:\data\booknew\chapters\code\Chapter 35 Smugmug Fetcher\obj\Debug\App.g.cs
+d:\data\booknew\chapters\code\Chapter 35 Smugmug Fetcher\obj\Debug\Chapter 35 Smugmug Fetcher_MarkupCompile.cache
+d:\data\booknew\chapters\code\Chapter 35 Smugmug Fetcher\obj\Debug\Chapter 35 Smugmug Fetcher.g.resources
+d:\data\booknew\chapters\code\Chapter 35 Smugmug Fetcher\obj\Debug\Chapter_35_Smugmug_Fetcher.Properties.Resources.resources
+d:\data\booknew\chapters\code\Chapter 35 Smugmug Fetcher\obj\Debug\Chapter 35 Smugmug Fetcher.csproj.GenerateResource.Cache
+d:\data\booknew\chapters\code\Chapter 35 Smugmug Fetcher\obj\Debug\Chapter 35 Smugmug Fetcher.exe
+d:\data\booknew\chapters\code\Chapter 35 Smugmug Fetcher\obj\Debug\Chapter 35 Smugmug Fetcher.pdb
+d:\data\booknew\chapters\code\Chapter 35 Smugmug Fetcher\obj\Debug\Chapter 35 Smugmug Fetcher.csprojResolveAssemblyReference.cache

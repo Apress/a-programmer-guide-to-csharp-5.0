@@ -1,0 +1,10 @@
+C:\Users\Eric Gunnerson\AppData\Local\Temporary Projects\Chapter 22 - Delegates\bin\Release\Chapter 22 - Delegates.exe
+C:\Users\Eric Gunnerson\AppData\Local\Temporary Projects\Chapter 22 - Delegates\bin\Release\Chapter 22 - Delegates.pdb
+C:\Users\Eric Gunnerson\AppData\Local\Temporary Projects\Chapter 22 - Delegates\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Eric Gunnerson\AppData\Local\Temporary Projects\Chapter 22 - Delegates\obj\x86\Release\Chapter 22 - Delegates.exe
+C:\Users\Eric Gunnerson\AppData\Local\Temporary Projects\Chapter 22 - Delegates\obj\x86\Release\Chapter 22 - Delegates.pdb
+D:\data\booknew\Chapters\code\Chapter 22 - Delegates\obj\x86\Release\Chapter 22 - Delegates.exe
+D:\data\booknew\Chapters\code\Chapter 22 - Delegates\obj\x86\Release\Chapter 22 - Delegates.pdb
+D:\data\booknew\Chapters\code\Chapter 22 - Delegates\bin\Release\Chapter 22 - Delegates.exe
+D:\data\booknew\Chapters\code\Chapter 22 - Delegates\bin\Release\Chapter 22 - Delegates.pdb
+D:\data\booknew\Chapters\code\Chapter 22 - Delegates\obj\x86\Release\ResolveAssemblyReference.cache

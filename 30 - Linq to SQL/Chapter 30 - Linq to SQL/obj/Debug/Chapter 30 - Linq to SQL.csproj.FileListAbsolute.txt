@@ -1,0 +1,6 @@
+d:\data\booknew\chapters\code\Chapter 30 - Linq to SQL\bin\Debug\Chapter 30 - Linq to SQL.exe
+d:\data\booknew\chapters\code\Chapter 30 - Linq to SQL\bin\Debug\Chapter 30 - Linq to SQL.pdb
+d:\data\booknew\chapters\code\Chapter 30 - Linq to SQL\obj\Debug\Chapter 30 - Linq to SQL.exe
+d:\data\booknew\chapters\code\Chapter 30 - Linq to SQL\obj\Debug\Chapter 30 - Linq to SQL.pdb
+d:\data\booknew\chapters\code\Chapter 30 - Linq to SQL\bin\Debug\Chapter 30 - Linq to SQL.exe.config
+d:\data\booknew\chapters\code\Chapter 30 - Linq to SQL\obj\Debug\Chapter 30 - Linq to SQL.csprojResolveAssemblyReference.cache
